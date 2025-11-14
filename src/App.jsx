@@ -36,7 +36,7 @@ export default function App() {
         </div>
 
         <p className="text-center text-slate-400 text-sm mt-8">
-          · Matigas na Larawan kani
+          · Matigas na Larawan edited
         </p>
       </div>
     </div>
